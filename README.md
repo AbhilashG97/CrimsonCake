@@ -2,7 +2,7 @@
 
 <hr>
 
-![Crimson Cake](images/CoconutCakewithRaspberryFilling.jpg?raw=true "Title")
+![Crimson Cake](images/CoconutCakewithRaspberryFilling.jpg?raw=true "Crimson Cake")
 
 <hr>
 
