@@ -6,7 +6,7 @@
 
 <hr>
 
-Solutions to all the problems that I have solved from various online judges will be present in this repository.
+Solutions to all the problems that I have solved from various competitve programming websites will be present in this repository.
 <br>
 <br>
 Also I love **watermelon**.
