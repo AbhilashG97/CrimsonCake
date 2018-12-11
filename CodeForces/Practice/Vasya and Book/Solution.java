@@ -24,7 +24,7 @@ public class Solution {
             }
             
             String numberString = numbers.toString();
-            //System.out.println(numberString);
+            System.out.println(numberString);
 
             if(numberString.contains(","+y+",")) {
                 if(numberString.contains(","+x+",")) {
