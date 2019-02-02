@@ -1,10 +1,8 @@
 # CrimsonCake
-
-<hr>
+[![](https://img.shields.io/github/languages/top/AbhilashG97/CrimsonCake.svg?colorB=red&style=flat-square)]()
+[![](https://img.shields.io/github/last-commit/AbhilashG97/CrimsonCake.svg)]()
 
 ![Crimson Cake](images/CoconutCakewithRaspberryFilling.jpg?raw=true "Crimson Cake")
-
-<hr>
 
 This repository contains the solutions to all the problems that I have solved from various competitve programming websites.
 <br>
