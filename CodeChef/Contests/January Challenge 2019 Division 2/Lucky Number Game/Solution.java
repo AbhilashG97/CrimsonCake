@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.ArrayList;
 
 class Solution {
     public static void main(String[] args) {
@@ -9,13 +10,15 @@ class Solution {
             int N = scanner.nextInt();
             int a = scanner.nextInt();
             int b = scanner.nextInt();
-            int[] numbers = new int[N];
+            int size = N;
+            ArrayList<Integer> numbers = new ArrayList<>();
 
-            for(int i=0; i<N; i++) {
-                numbers[i] = scanner.nextInt(); 
+            while(N-->0) {
+                numbers.add(scanner.nextInt()); 
             }
+            
         }
-        
+
         scanner.close();
     }
 }
